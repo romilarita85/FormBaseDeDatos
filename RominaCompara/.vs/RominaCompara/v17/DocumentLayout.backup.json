@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|c:\\users\\pc\\downloads\\rominacompara\\rominacompara\\evaluacion_integradora\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|solutionrelative:evaluacion_integradora\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|c:\\users\\pc\\downloads\\rominacompara\\rominacompara\\evaluacion_integradora\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|solutionrelative:evaluacion_integradora\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\evaluacion_integradora\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|solutionrelative:evaluacion_integradora\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|c:\\users\\pc\\downloads\\rominacompara\\rominacompara\\evaluacion_integradora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961AD977-AF4C-4629-91AB-83D153FEAAFE}|Evaluacion_Integradora\\Evaluacion_Integradora.csproj|solutionrelative:evaluacion_integradora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20184E9B-856C-46EF-A5F4-ED4BB619CA48}|LibreriaDePersonajes\\LibreriaDePersonajes.csproj|c:\\users\\pc\\downloads\\rominacompara\\rominacompara\\libreriadepersonajes\\personaje_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20184E9B-856C-46EF-A5F4-ED4BB619CA48}|LibreriaDePersonajes\\LibreriaDePersonajes.csproj|solutionrelative:libreriadepersonajes\\personaje_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCrear.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormCrear.cs",
+              "RelativeDocumentMoniker": "Evaluacion_Integradora\\FormCrear.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormCrear.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Evaluacion_Integradora\\FormCrear.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:16:18.327Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormModificar.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormModificar.cs",
+              "RelativeDocumentMoniker": "Evaluacion_Integradora\\FormModificar.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormModificar.cs",
+              "RelativeToolTip": "Evaluacion_Integradora\\FormModificar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:12:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Evaluacion_Integradora\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormPrincipal.cs",
+              "RelativeToolTip": "Evaluacion_Integradora\\FormPrincipal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwEAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:20:04.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormModificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormModificar.cs",
+              "RelativeDocumentMoniker": "Evaluacion_Integradora\\FormModificar.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\Evaluacion_Integradora\\FormModificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Evaluacion_Integradora\\FormModificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:11:27.078Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personaje_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\LibreriaDePersonajes\\Personaje_Ado.cs",
+              "RelativeDocumentMoniker": "LibreriaDePersonajes\\Personaje_Ado.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\RominaCompara\\RominaCompara\\LibreriaDePersonajes\\Personaje_Ado.cs",
+              "RelativeToolTip": "LibreriaDePersonajes\\Personaje_Ado.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAIwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:03:10.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
